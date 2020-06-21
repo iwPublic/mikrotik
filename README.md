@@ -11,3 +11,6 @@ Refer to configuration files beginning with "dhcp-ecmp".
 Basic configuration with Firewall, FastTrack and Queue Trees enabled
 
 Refer to confguration files "basic".
+
+# Configuring Basic Services on MikroTik Router for Consumer
+Refer to configuration fiels "basic-consumer".
